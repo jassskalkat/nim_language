@@ -1,5 +1,4 @@
-# Project-2620
-This repo is made for sample programs regarding my project for Nim Language.
+# NIM LANGUAGE
+This repository contains sample programs for Nim Language.
 
-
-You can test the code online by using Nim's online playground : https://play.nim-lang.org/#ix=2lK1
+Test the code online by using online compiler : https://play.nim-lang.org/#ix=2lK1
